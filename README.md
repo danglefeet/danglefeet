@@ -29,20 +29,20 @@ ChatGPT, Claude, NoteML, Qlikky, and a variety of applied LLM tools
 
 Career Highlights
 
-User Experience Manager — PAS
+User Experience Manager PAS
 Developed operational reporting that improved SLA adherence by 50 percent.
 Modernized support operations and eliminated lost tickets.
 Expanded supported environments through structured knowledgebase development.
 
 
-Business Analyst — Intuit (Persistent Contractor)
+Business Analyst  Intuit (Persistent Contractor)
 Reduced BI backlog from more than a year to two weeks.
 Migrated legacy Qlik Sense reporting into Amazon QuickSight.
 Optimized large-scale Qlik dashboards (50 GB+) from ten-minute load times to under one minute.
 Delivered AI-driven narrative analytics extensions for executive reporting.
 
 
-BI Support Manager — DI Squared
+BI Support Manager  DI Squared
 Managed onshore and offshore BI support teams.
 Reduced ticket resolution times by 33 percent.
 Improved customer satisfaction by 10 percent.
