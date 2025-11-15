@@ -49,7 +49,7 @@ Improved customer satisfaction by 10 percent.
 Introduced SLA metrics and onboarded five enterprise clients.
 
 
-Senior Architect — Bardess Group
+Senior Architect  Bardess Group
 Completed more than 30 Qlik platform upgrades and migrations.
 Authored governance standards and BI best practices.
 Integrated enterprise SAP ledger data into Qlik dashboards.
@@ -84,20 +84,11 @@ Databricks Fundamentals
 
 Education
 
-University of North Texas — BBA
-Collin College — Associate Degree and BI Certificate
+University of North Texas  BBA
+Collin College   Associate Degree and BI Certificate
 
 
 Professional Links
 
 LinkedIn: linkedin.com/in/matt-baker-the-one
 GitHub: github.com/danglefeet
-
-
----
-
-If you'd like, I can further refine this for:
-• a more technical audience (engineering managers)
-• a more product/UX-focused audience
-• keyword optimization for ATS scanning
-• alignment to specific roles (BI Engineer, Solutions Architect, Support Manager, etc.)
