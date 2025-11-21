@@ -6,6 +6,19 @@ I lead data, analytics, and support organizations with a focus on modernizing BI
 
 My GitHub includes practical tools and migration utilities that emerged directly from real-world BI, cloud, and integration challenges. These projects demonstrate my ability to work across legacy platforms, AWS services, and enterprise support ecosystems.
 
+## Portfolio Highlights
+
+Here are selected projects that reflect my work in BI modernization, cloud development, and infrastructure automation:
+
+- **[Qlik2Quick](https://github.com/danglefeet/Qlik2Quick)**  
+  Modernization tooling for migrating Qlik Sense dashboards into Amazon QuickSight.
+
+- **[QlikSenseOnPremRapidOnboarder](https://github.com/danglefeet/QlikSenseOnPremRapidOnboarder)**  
+  Infrastructure automation for AWS-based BI environments.
+
+- **[Goldbach](https://github.com/danglefeet/Goldbach)**  
+  Distributed computing experiment built using AWS services.
+
 ## Career Highlights
 
 **Customer Experience and Support Manager – PAS**  
