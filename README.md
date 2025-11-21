@@ -6,6 +6,20 @@ I lead data, analytics, and support organizations with a focus on modernizing BI
 
 My GitHub includes practical tools and migration utilities that emerged directly from real-world BI, cloud, and integration challenges. These projects demonstrate my ability to work across legacy platforms, AWS services, and enterprise support ecosystems.
 
+## Career Highlights
+
+**Customer Experience and Support Manager – PAS**  
+Improved SLA performance and operational reliability through workflow automation, reporting, and knowledgebase development.
+
+**Senior BI Analyst – Persistent Systems (Intuit)**  
+Migrated legacy BI to QuickSight, reduced backlog, optimized large Qlik dashboards, and introduced AI-enhanced narrative analytics.
+
+**BI Support Team Manager – DI Squared**  
+Built and led distributed BI support teams, established SLAs, standardized processes, and improved ticket resolution times.
+
+**Senior Solutions Consultant – Bardess Group**  
+Delivered major platform upgrades, authored BI governance standards, onboarding frameworks, and multi-client hosted BI stabilizations.
+
 ## Technical Focus Areas
 
 **Business Intelligence**  
