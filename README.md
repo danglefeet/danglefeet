@@ -52,3 +52,4 @@ Freshdesk, Autotask, HubSpot, Git, SVN
 
 **AI & Analytics Extensions**  
 Applied LLM tools (ChatGPT, Claude, custom Qlik/QuickSight extensions)
+ 
