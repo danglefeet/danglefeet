@@ -51,4 +51,4 @@ Python, PowerShell, SSIS, VBScript, Alteryx, Automation Anywhere, TimeXtender
 Freshdesk, Autotask, HubSpot, Git, SVN  
 
 **AI & Analytics Extensions**  
-Applied LLM tools (ChatGPT, Claude, custom Qlik/QuickSight extensions)
+Applied LLM tools (ChatGPT, Claude, Cursor, custom Qlik/QuickSight extensions)
